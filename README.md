@@ -7,11 +7,11 @@ Plugins by Zainab Ali. Website: https://zainab-builds-networking.netlify.app/
 In Claude Code:
 
 ```bash
-claude plugin marketplace add <your-github-username>/zainab-builds-marketplace
+claude plugin marketplace add zainy155/zainab-builds-marketplace
 claude plugin install networking@zainab-builds
 ```
 
-Or inside a session: `/plugin marketplace add <your-github-username>/zainab-builds-marketplace`, then `/plugin install networking@zainab-builds`.
+Or inside a session: `/plugin marketplace add zainy155/zainab-builds-marketplace`, then `/plugin install networking@zainab-builds`.
 
 Then run `/networking` to start.
 
