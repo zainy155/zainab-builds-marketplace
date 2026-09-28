@@ -1,0 +1,20 @@
+{
+  "name": "zainab-builds",
+  "description": "Plugins built by Zainab Ali – AI workflows for research, networking and business development.",
+  "owner": {
+    "name": "Zainab Ali",
+    "url": "https://zainab-builds-networking.netlify.app/"
+  },
+  "plugins": [
+    {
+      "name": "networking",
+      "source": "./plugins/networking",
+      "description": "Intent-driven networking research behind one command, /networking. Map a company's momentum and people, then get engagement tips for named contacts – slanted to job search, client prospecting, partnerships, investor outreach or talent sourcing.",
+      "version": "0.2.0",
+      "author": { "name": "Zainab Ali" },
+      "homepage": "https://zainab-builds-networking.netlify.app/",
+      "category": "productivity",
+      "keywords": ["networking", "company research", "prospecting", "business development", "job search", "outreach"]
+    }
+  ]
+}

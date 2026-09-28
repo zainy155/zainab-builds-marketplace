@@ -1,0 +1,16 @@
+{
+  "name": "networking",
+  "version": "0.2.0",
+  "description": "Intent-driven networking research, all of it behind one command: /networking. Map a company's momentum and people, then get engagement tips for named contacts, with every output slanted to why you are reaching out: job search, client prospecting, partnerships, investor outreach, or talent sourcing.",
+  "author": {
+    "name": "Zainab Ali"
+  },
+  "keywords": [
+    "networking",
+    "company research",
+    "prospecting",
+    "business development",
+    "job search",
+    "outreach"
+  ]
+}
